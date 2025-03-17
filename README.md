@@ -1,5 +1,13 @@
 # ¡Hola! 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Annii009/Annii009/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Annii009/Annii009/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Annii009/Annii009/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ## Sobre mí 🧑‍💻✨
 
 Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)**, apasionada por la tecnología, la programación y la creación de experiencias digitales memorables. Mi objetivo es diseñar y desarrollar aplicaciones e interfaces que combinen funcionalidad, estética y usabilidad.
